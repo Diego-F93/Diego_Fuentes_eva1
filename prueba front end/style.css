@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(212, 230, 230);
+}
+main {
+    background-color: rgb(248, 255, 251);
+}
+
+table, tr, td, th, form {
+    border: 1px solid;  
+    padding: 10px 20px;  
+}
+
+table {
+    background-color: rgb(97, 223, 255);
+}
+
+th, td {
+    background-color: aliceblue;
+}
+
+ol {
+    border: 1px dotted;
+    background-color: chartreuse;
+    padding: 30px 50px;
+}
+
+form{
+    background-color: rgb(228, 225, 222);
+
+}
